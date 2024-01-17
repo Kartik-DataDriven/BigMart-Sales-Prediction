@@ -1,0 +1,7 @@
+fastapi==0.68.0
+joblib==1.1.0
+numpy
+matplotlib
+pandas
+seaborn 
+flask
